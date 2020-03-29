@@ -1,2 +1,17 @@
 server:
   port: 8081
+
+person:
+  name: zhangsan
+  age: 15
+  boss: false
+  birth: 2019/07/07
+  map: {k1: v1,k2: v2}
+  list:
+    - zhang
+    - liu
+    - zhao
+  dog:
+    dname: katt
+    dage: 2
+
