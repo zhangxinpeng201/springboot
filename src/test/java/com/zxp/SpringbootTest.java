@@ -33,6 +33,8 @@ public class SpringbootTest {
     @Test
     public void test02(){
         System.out.println(ioc.containsBean("helloService01")+"*********");
+        System.out.println(ioc.containsBean("helloService01")+"*********");
+        System.out.println(ioc.containsBean("helloService01")+"*********");
     }
     @Test
     public void test01(){
