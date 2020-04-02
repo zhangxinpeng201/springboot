@@ -13,8 +13,7 @@ public class springBootStarter {
 
 
     public static void main(String[] args) {
-        Logger logger =LoggerFactory.getLogger(springBootStarter.class);
-        logger.info("hello ---------------springboot");
+
         SpringApplication.run(springBootStarter.class,args);
     }
 }
